@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ziequoosh.uds.space/sitemap.xml
